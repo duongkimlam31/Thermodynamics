@@ -1,3 +1,4 @@
+# Run the code on a terminal to start
 import turtle, math, random
 
 class Compound(turtle.Turtle):
